@@ -282,7 +282,7 @@ function getTouchInfo(canvas, e, i) {
     };
   }
 }
-
+//we create here the prototype for the animation 
 // Modify p5 to ignore out-of-bounds positions before setting mouseIsPressed
 // and isMousePressed
 p5.prototype._onmousedown = function(e) {

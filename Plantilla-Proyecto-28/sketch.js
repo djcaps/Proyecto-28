@@ -14,8 +14,7 @@ var world,boy;
 var launcherObject;
 var launchForce=100; 
 
-
-
+//Aqui estoy precargando mis imagenes
 function preload(){
 	boy=loadImage("images/boy.png");
   }

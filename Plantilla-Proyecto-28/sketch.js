@@ -114,7 +114,7 @@ if (keyCode == 32) {
 
 
 
-
+//Aqui estoy creando la funcion para detectar la colision de mis objetos
   function detectollision(lstone,lmango){
 
   mangoBodyPosition=lmango.body.position

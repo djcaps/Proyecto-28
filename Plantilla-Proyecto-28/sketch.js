@@ -55,7 +55,7 @@ function draw() {
   text("¡Presiona Barra Espaciadora para tener una segunda Oportunidad para Jugar!",50 ,50);
   image(boy ,200,340,200,300);
   
-
+//aqui estoy mandando a llamar todos mis objetos;
   treeObj.display();
   stoneObj.display();
   mango1.display();

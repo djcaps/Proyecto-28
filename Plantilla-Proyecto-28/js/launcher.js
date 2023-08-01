@@ -1,7 +1,7 @@
 class launcher{
 	constructor(body,anchor)
 	{
-		
+		//creacion de mis variables donde especifico la anchura de mis objetos 
 		var options={ bodyA:body,			 
 			pointB:anchor, 
 			stiffness:0.004, 

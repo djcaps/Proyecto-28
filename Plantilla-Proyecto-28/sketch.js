@@ -18,7 +18,7 @@ var launchForce=100;
 function preload(){
 	boy=loadImage("images/boy.png");
   }
-
+//Aqui creo el. canvas de mi proyecto y tambien creo los objetos 
 function setup() {
 	createCanvas(1300, 600);
 	engine = Engine.create();

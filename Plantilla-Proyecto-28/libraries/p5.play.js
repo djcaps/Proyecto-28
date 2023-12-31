@@ -67,7 +67,7 @@ p5.prototype.registerMethod('init', function p5PlayInit() {
 
   var startDate = new Date();
   this._startTime = startDate.getTime();
-
+  //Here is where i create de canvas for my code
   // Temporary canvas for supporting tint operations from image elements;
   // see p5.prototype.imageElement()
   this._tempCanvas = document.createElement('canvas');
